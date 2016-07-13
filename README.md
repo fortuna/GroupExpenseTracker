@@ -1,8 +1,13 @@
 # Group Expense Tracker
 
-Easy to use Google spreadsheet to manage group expenses: [Balance Sheet Template](https://drive.google.com/previewtemplate?id=0AvgOLxrtVCKbdDJyMUl4aElqR05fZnF3UlAtUHFkdEE&mode=public).
+Easy to use Google spreadsheet to manage group expenses.
 
 Very useful for group trips, where different expenses are paid by different members of the group, and you want to split the costs and track payment.
+
+Get it here:
+
+| [Balance Sheet Template](https://drive.google.com/previewtemplate?id=0AvgOLxrtVCKbdDJyMUl4aElqR05fZnF3UlAtUHFkdEE&mode=public) |
+| --- |
 
 
 ## Instructions
@@ -13,3 +18,7 @@ The Report tab will give you how much each party's credit or debit.
 1. Add the transfers to the Transfers tab. Once all the debt is settled, you should see zero balance for all parties in the Report tab.
 
 **Example:** see [Beach Trip Balance Sheet](https://docs.google.com/spreadsheet/ccc?key=0AvgOLxrtVCKbdHkxLVJCT0czSGpFeVRwX1I3bUUzVnc&usp=sharing) for advanced usage.
+
+
+## Feature requests
+Feel free to file bugs and feature requests on the [Issues page](issues)
